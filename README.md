@@ -1,4 +1,13 @@
-## Sobre mi
+## 👨‍💻 Sobre mí
+
+Mucho gusto, mi nombre es **Jair Rodarte** soy  
+<img width="13" height="13" alt="image" src="https://github.com/user-attachments/assets/f0337349-e5b1-4861-bf5d-529cc4676939" /> **Programador**  
+<img width="13" height="13" alt="image" src="https://github.com/user-attachments/assets/9eae0be4-731f-4f7e-b66e-1b8833688d5d" /> **Analista de Datos**  
+<img width="13" height="13" alt="Mexico" src="https://github.com/user-attachments/assets/fe0779ab-92ee-4276-a548-e75d2334c319" /> **Nacido en México**
+
+---
+
+
 
 Siempre he sido alguien que investiga muchas cosas de muchos temas, aprender cosas siempre ha sido mi afición y un hobby para mi. saber como funciona, la razón de y el porque de las cosas es mi mayor motivación.
 
@@ -13,7 +22,9 @@ En Análisis de datos: los patrones que se repiten dependiendo de los parámetro
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
 ## Sistemas
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -33,20 +44,20 @@ En Análisis de datos: los patrones que se repiten dependiendo de los parámetro
 
 ## Intereses por aprender
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+### Frase personal
+
+> *“Escribir código es mil veces más fácil que leerlo.  
+> Un código bien escrito no necesita de explicaciones.”*
+
+<!-- Futuro
 ## 📊 Estadísticas de GitHub
-
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YAYIIRx3&show_icons=true&theme=transparent&border_color=EB0000&title_color=EB0000&text_color=FFFFFF&icon_color=ff9333&locale=es)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center">
+<div align="left">
    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=YAYIIRx3&theme=highcontrast&border_radius=5&locale=es&date_format=j%20M%5B%20Y%5D&ring=EB0000&border=EB0000" alt="GitHub Streak" /></a>
 </div>
-
-
-
-
 
 
 links
@@ -56,3 +67,8 @@ https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#repo-card-
 
 logos
 https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#markdown-badges
+
+icons
+https://www.flaticon.com/search?word=mexico 
+
+-->
