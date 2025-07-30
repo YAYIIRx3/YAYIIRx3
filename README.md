@@ -48,8 +48,8 @@ En Análisis de datos: los patrones que se repiten dependiendo de los parámetro
 
 ### Frase personal
 
-> *“Escribir código es mil veces más fácil que leerlo.  
-> Un código bien escrito no necesita de explicaciones.”*
+> *“si puedes imaginarlo, peudes programarlo.  
+> -Alejandro Taboada”*
 
 <!-- Futuro
 ## 📊 Estadísticas de GitHub
