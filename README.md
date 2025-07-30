@@ -48,7 +48,7 @@ En Análisis de datos: los patrones que se repiten dependiendo de los parámetro
 
 ### Frase personal
 
-> *“si puedes imaginarlo, peudes programarlo.  
+> *“Si puedes imaginarlo, puedes programarlo.  
 > -Alejandro Taboada”*
 
 <!-- Futuro
