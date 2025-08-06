@@ -51,6 +51,9 @@ En Análisis de datos: los patrones que se repiten dependiendo de los parámetro
 > *“Si puedes imaginarlo, puedes programarlo.  
 > -Alejandro Taboada”*
 
+### Estadisticas
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YAYIIRx3&show_icons=true&theme=transparent&border_color=EB0000&title_color=EB0000&text_color=FFFFFF&icon_color=ff9333&locale=es)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- Futuro
 ## 📊 Estadísticas de GitHub
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YAYIIRx3&show_icons=true&theme=transparent&border_color=EB0000&title_color=EB0000&text_color=FFFFFF&icon_color=ff9333&locale=es)](https://github.com/anuraghazra/github-readme-stats)
